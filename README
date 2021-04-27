@@ -1,0 +1,27 @@
+## This file explains each of the files in this folder.
+
+### _ml_regression_energy_clusters.py
+Python code for calculating the regression equation of each one of the clusters
+	The file contains the accuracy values for each one of the regression equations. 
+	It also contains the order of the equation, input files, and output files (exported models).
+
+### cat*_headless.csv
+Input files used by the _ml_regression_energy_clusters.py. 
+These files have no header.
+
+### cat*_model.txt
+Output files from _ml_regression_energy_clusters.py. 
+These files contain the json representation of the regression equation.
+
+### _ml_regression_energy.py
+Python code for calculating the regression equation for the unclustered file
+	The file contains the accuracy values for each one of the regression equations. 
+	It also contains the order of the equation, input files, and output files (exported models).
+
+### non_clustered.csv
+Input file used by the _ml_regression_energy.py. 
+This file has no header.
+
+### nonclustered_model.txt
+Output files from _ml_regression_energy.py. 
+This file contains the json representation of the regression equation.

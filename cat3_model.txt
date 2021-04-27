@@ -1,0 +1,1 @@
+{"meta": "linear-regression", "coef_": [0.0, 23.213409024766584, 7.819453382425987, 0.9840326795352716, -1810.171899344093], "intercept_": -2219.643594236313, "params": {"copy_X": true, "fit_intercept": true, "n_jobs": null, "normalize": false}}
